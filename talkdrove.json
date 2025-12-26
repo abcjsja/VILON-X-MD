@@ -1,0 +1,25 @@
+{
+    "bot-name": "VILON-X-MD",
+    "description": "VILON-X-MD By isira induwara",
+    "logo": "https://i.ibb.co/LD5jTBf5/8954.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://khanmd-pair.onrender.com/",
+    "owner-verification":"induwaraisira793@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here.",
+        "value":"",
+        "required": true
+        
+      },
+      "PREFIX": {
+        "description": "Bot command prefix, (e.g, . , ! @ etc",
+        "value":".",
+        "required": true
+        
+      }
+      
+    }
+  
+  }
